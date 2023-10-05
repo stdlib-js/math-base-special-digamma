@@ -30,8 +30,8 @@ var digamma = require( './../../dist' );
 
 // FIXTURES //
 
-var data = require( './../..xtures/r/data.json' );
-var expected = require( './../..xtures/r/expected.json' );
+var data = require( './../fixtures/r/data.json' );
+var expected = require( './../fixtures/r/expected.json' );
 var v;
 var i;
 for ( i = 0; i < expected.length; i++ ) {
