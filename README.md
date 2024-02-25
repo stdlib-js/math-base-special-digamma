@@ -63,6 +63,11 @@ The [digamma function][digamma-function] `ψ` is the logarithmic derivative of t
 ## Usage
 
 ```javascript
+import digamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-digamma@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-digamma/tags). For example,
+
+```javascript
 import digamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-digamma@v0.2.1-deno/mod.js';
 ```
 
@@ -113,7 +118,7 @@ var v = digamma( NaN );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import digamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-digamma@v0.2.1-deno/mod.js';
+import digamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-digamma@deno/mod.js';
 
 var x;
 var v;
