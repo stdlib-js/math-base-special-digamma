@@ -12,4 +12,5 @@ var T=require('@stdlib/math-base-assert-is-nan/dist'),Y=require('@stdlib/math-ba
 /** @license Apache-2.0 */
 /** @license Apache-2.0 */
 /** @license Apache-2.0 */
+/** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map

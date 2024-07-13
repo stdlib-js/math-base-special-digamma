@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ed638e3`](https://github.com/stdlib-js/stdlib/commit/ed638e392f7425c899abda488b943d0ffbd37f78) - **docs:** update Boost version and fix C function name in README.md [(##2577)](#2577) _(by Gunj Joshi)_
 -   [`337adbf`](https://github.com/stdlib-js/stdlib/commit/337adbf93822a5ab1adb5256594855e344e9414c) - **feat:** add C implementation for `math/base/special/digamma` [(##2533)](#2533 ) _(by Gunj Joshi)_
 
 </details>
