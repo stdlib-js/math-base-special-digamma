@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`26337e1`](https://github.com/stdlib-js/stdlib/commit/26337e1644c963b8006e38c4b5e2ee74eac8e33f) - **docs:** fix return annotation tag in C comments _(by Philipp Burckhardt)_
 -   [`e9d0de8`](https://github.com/stdlib-js/stdlib/commit/e9d0de8077f47e49ff703c1b106e262454e5d15d) - **chore:** update package meta data [(#2596)](https://github.com/stdlib-js/stdlib/pull/2596) _(by stdlib-bot, Athan Reines)_
 -   [`ed638e3`](https://github.com/stdlib-js/stdlib/commit/ed638e392f7425c899abda488b943d0ffbd37f78) - **docs:** update Boost version and fix C function name in README.md [(##2577)](#2577) _(by Gunj Joshi)_
 -   [`337adbf`](https://github.com/stdlib-js/stdlib/commit/337adbf93822a5ab1adb5256594855e344e9414c) - **feat:** add C implementation for `math/base/special/digamma` [(##2533)](#2533 ) _(by Gunj Joshi)_
@@ -36,10 +37,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gunj Joshi
+-   Philipp Burckhardt
 
 </section>
 
