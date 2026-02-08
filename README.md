@@ -63,6 +63,11 @@ The [digamma function][digamma-function] `ψ` is the logarithmic derivative of t
 ## Usage
 
 ```javascript
+import digamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-digamma@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-digamma/tags). For example,
+
+```javascript
 import digamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-digamma@v0.3.1-esm/index.mjs';
 ```
 
@@ -119,7 +124,7 @@ var v = digamma( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import digamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-digamma@v0.3.1-esm/index.mjs';
+import digamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-digamma@esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
